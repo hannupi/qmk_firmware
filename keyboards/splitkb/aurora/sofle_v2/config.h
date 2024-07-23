@@ -19,3 +19,6 @@
 #ifdef OLED_ENABLE
 #   define OLED_FONT_H "keyboards/splitkb/aurora/sofle_v2/glcdfont.c"
 #endif
+
+#define TAPPING_TERM 150
+
